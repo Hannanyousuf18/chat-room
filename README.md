@@ -37,8 +37,8 @@ Follow these steps to set up and run the project:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/htmx-chat-rooms.git
-cd htmx-chat-rooms
+git clone https://github.com/Hannanyousuf18/chat-room.git
+cd chat-room
 ```
 
 ### 2. Set up a local server
